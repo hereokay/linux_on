@@ -1,0 +1,11 @@
+.:
+total 4
+drwxrwxr-x 3 s12191654 s12191654 4096 Sep  1 02:47 submission
+
+./submission:
+total 4
+drwxrwxr-x 2 s12191654 s12191654 4096 Sep  1 02:48 ex0
+
+./submission/ex0:
+total 0
+-rw-rw-r-- 1 s12191654 s12191654 0 Sep  1 02:48 ls.out
