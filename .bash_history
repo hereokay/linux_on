@@ -1,669 +1,3 @@
-passwd
-pwd
-ls -a
-man
-man passwd
-ls
-pwd
-ls 
-ls -a
-cd ..
-ls
-cd ./s12191654
-ls
-pwd
-mkdir test
-ls
-rmdir test
-ls
-mkdir submission
-ls
-cd ./submission
-ls
-ls -a
-cd ..
-ls -a
-ls -l
-ls
-cd
-ls
-mkdir testdir
-ls
-rmdir testdir
-ls
-cd ./submission
-ls
-mkdir ex0
-ls
-cd
-ls
-ls -lR > ./submission/ex0/ls.out
-cd ./submission/ex0
-ls
-cat ls.out
-cd
-ls
-cd submission
-ls
-cd ex0
-ls
-cat ls.out
-cd 
-ls
-mkdir ex1
-rm ex1
-rmdir e1
-rmdir ex1
-touch ex1
-ls
-cd ex1
-rm ex1
-mkdir ex1
-ls
-cd ex1
-touch test
-ls
-ls -l
-cp test test2
-ls -l
-cd
-ls
-cp ex1 ex0
-cp -r ex1 ex0
-passwd
-ls
-mv ls
-ls
-cd ex1
-ls
-mv test2 test3
-ls
-mv test3 ~/test3
-ls
-cd
-ls
-l
-ls
-l
-s
-l
-s
-ls
-rm test3
-ls
-cd ex0
-ls
-cd
-ls
-rmdir ex0
-rm -r ex0
-ls
-ls- l
-ls -l
-cd ex1
-ls -l
-cd
-help
-cd
-cd ..
-ls
-ls -l
-cd share
-ls
-cd ..
-ls
-chmod 
-cd
-cd ex1
-ls
-ls -l
-chmod 600 test
-ls
-ls -l
-chmod u+x, g+r test
-chmod u+x,g+r test
-ls -l
-echo abc
-cat test
-cd
-cd hp,e
-cd home
-ls
-cd 
-cp /usr/include/stdio.h ex1/
-ls
-cd ex1
-ls
-cat stdio.h
-cat stdio.h -n
-cat stdio.h -v
-cat stdio.h -e
-cat stdio.h -ve
-cat stdio.h -v -e
-cat stdio.h -v 
-cat stdio.h -e
-head stdio
-
-head stdio -n 20
-head stdio.h -n 20
-head stdio.h -n 30
-head stdio.h -n 1
-head stdio.h -n 2
-head stdio.h -n 3
-head stdio.h -n 100
-tail stdio.h -n 2
-tail stdio.h -n 20
-tail stdio.h -n 21
-tail stdio.h -n 19
-pwd
-ls
-sudo ls
-clear
-help vim
-help
-vim --help
-ls
-vim stdio.h
-vim hello.c
-cat hellp.c
-cat hello.c
-vim hello.c
-cat hello.c
-gcc hello.c
-ls
-./a.out
-python
-gcc hello.c -o hello.out
-ls
-./hello.out
-ls -l
-./test
-cat test
-./hello.outt
-./hello.out
-compile
-ls
-vim header.h
-vim func_one.c
-vim main.c
-ls
-vim func_two.c
-ls
-cat func_two.c
-cat func_one.c
-ls
-cat main.c
-cat header.h
-gcc main.c func_one.c func_two.c -o print_func
-./print_func
-gcc main.c -c -o ma
-ls
-gcc func_one.c -c -o func_one.o
-gcc func_two.c -c -o func_two.o
-ls
-gcc main.o func_one.o func_two.o -o print_func
-./print_func
-ls
-vim makefile
-ls
-mv makefile Makefile
-make
-vim Makefile
-ls
-make
-make clean
-make
-./all
-ls
-./a.out
-cd ..
-ls
-cd ex1
-ls
-cd
-ls
-cd 
-cp -rf ex1/ submission/ex1
-ls
-cd submission
-ls
-cd ex1
-ls
-./a.out
-ls
-exit
-ls
-mkdir ex2
-ls
-cd ex2
-ls
-cd
-ls
-cd ex2
-s
-ls
-clear
-vi ex_open.c
-ls
-./ex_open.c
-sudo ./ex_open,c
-ls -l
-chmod
-chmod --help
-chmod 700 ex_open.c
-ls -l
-./ex_open.c
-vi ex_open.c
-cat ex_open.c
-n
-cat ex_open.c
-./ex_open.c
-gcc ex_open.c -o ex_open
-./ex_open
-vi ex_open.c
-gcc ex_open.c -o ex_open
-./ex_open
-cat ex_open.c
-ls
-vi ex_cp.c
-ls
-gcc ex_cp.c ex_cp
-ls
-gcc ex_cp.c -o ex_cp
-vi ex_cp.c
-gcc ex_cp.c -o ex_cp
-./ex_cp ex_cp.c ex_cp.c.copy
-ls
-vi ex_cp.c
-ls
-vi ex_cp.c
-gcc ex_cp.c -o ex_cp
-./ex_cp ex_cp.c ex_cp.copy
-vi ex_cp.c
-gcc ex_cp.c -o ex_cp
-./ex_cp ex_cp.c ex_cp.copy
-rm ex_cp.copy
-./ex_cp ex_cp.c ex_cp.c.copy
-rm ex_cp.c.copy
-./ex_cp ex_cp.c ex_cp.c.copy
-vi
-vi ex_cp.c
-cat ex_cp.c
-vi ex.cp.c
-ls
-rm ex.cp.c
-vi ex_cp.c
-ls
-gcc ex_cp.c -o ex_cp
-./ex_cp ex_cp.c ex_cp.c.copy
-cat ex_cp.c
-vi ex_dup.c
-cp /home/share/linux_programming/residents ~/ex2/
-ls
-cat residents
-vi ex_dup.c
-cp /home/share/linux_programming/hotel.c ~/ex2/
-ls
-vi hotel.
-vi hotel.c
-ls
-gcc hotel.c -o hotel
-./hotel 1
-./hotel 1 2 3 
-cat hotel.c
-vi ex_dup.c
-gcc ex_dup.c -o ex_dup
-./ex_dup
-ls
-./ex_dup testfile
-cat testfile
-vi Makefile
-Makeile
-Makefle
-Makefile
-./Makefile
-make
-cp -rf ~/ex2/submission/ex2
-ls
-cd
-cp -rf ~/ex2/submission/ex2
-cd
-cp -rf ~/ex2/submission/ex2
-cd ex2/submission/ex2
-ls
-cp -rf ~/submission/ex2
-cd
-cp -rf ~/ex2 ~/submission/ex2
-ls
-cd submission
-ls
-cd ex2
-ls
-mkdir ex3
-ls
-cd ex3
-ls
-cat /etc/paswd
-cat /etc/passwd
-cat /etc/groput
-cat /etc/group
-id
-cat /etc/group
-id
-ls -l /home
-cd /home/share
-ls
-cd linux_programming/
-ls
-ls -l
-ls -l /etc/shado
-ls -lw
-ls -l /etc/shadow
-cat /etc/shadow
-cat /bin/passwd
-ls -l /bin/passwd
-passwd
-umask
-vi ex_umask
-ls
-cd
-cd ex3
-vi ex_umask.c
-ls
-gcc ex_umask.c -o ex_umask
-vi ex_umask.c
-gcc ex_umask.c -o ex_umask
-./ex_umask
-vi ex_umask.c
-gcc ex_umask.c -o ex_umask
-./ex_umask
-vi ex_umask.c
-ls
-vi ex_umask.c
-gcc 
-gcc ex_umask.c -o ex_umask
-./ex_umask
-ls
-ls -l
-ls
-vi ex_chmod.c
-ls
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 777 file1
-ls -l
-chmod --help
-chmod 775 file1
-ls 0l
-ls -l
-chmod 775 file1 -v
-chmod 777 file1
-ls
-chmod 775 file1 -v
-vi ex_getpot
-ls
-vi ex_getpot.c
-vi ex_getopt.c
-ls
-gcc ex_getopt.c -o ex_getopt
-./ex_getopt
-./ex_getopt 1 2 3
-./ex_getopt -a 23
-./ex_getopt -a 23 -b 3
-./ex_getopt -a 23 -b
-./ex_getopt -a 23 -b -c
-./ex_getopt -a 23  -c -c
-./ex_getopt -a 23  -c -b
-./ex_getopt -a 232323  -c -b
-gcc ex_getopt.c -o ex_getopt
-vi ex_getopt.c
-gcc ex_getopt.c -o ex_getopt
-./ex_getpot
-./ex_getopt
-./ex_getopt 2332
-cat ex_getopt.c
-./ex_getopt -a
-cat ex_getopt.c
-ls
-vi ex_chmod.c
-ls
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-ls
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod
-./ex_chmod -h
-cat ex_chmod.c
-./ex_chmod 
-./ex_chmod -
-./ex_chmod 733 file1 -v
-vi ex_chmod.c
-ls
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 733 file1 -v
-cat ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-cat ex_chmod.c
-vi ex_chmod.c
-ls
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 733 file1 -v
-ls
-./ex_chmod 733 file1 -v
-ls
-cat ex_chmod.c
-./ex_chmod 733 file1
-./ex_chmod 733 file1 -v
-cat ex_chmod.c
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 733 file1 -v
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 733 file1 -v
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 733 file1 -v
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod 733 file1 -v
-vi ex_chmod.c
-./ex_chmod 733 file1 -h
-./ex_chmod
-vi ex_chmod.c
-ls
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod
-./ex_chmod -h
-./ex_chmod file1
-vi ex_chmod.c
-vi test.c
-gcc test.c -o test
-./test 
-./test 733 file1 -v
-./test file1
-./test file1 -h
-vi ex_chmod.c
-ls
-rm ex_chmod.c
-mv test.c ex_chmod.c
-ls
-cat ex_chmod.c
-gcc -o ex_chmod ex_chmod
-gcc -o ex_chmod ex_chmod.c
-./ex_chmod.c
-./ex_chmod
-vi Makefile
-ls
-Make
-make
-vi Makefile
-ls
-amek
-make
-vi Makefile
-ls
-make
-vi Makefile
-ls
-make
-cat Makefile
-rm test
-rm test.c
-ls
-cat Makefile
-vi Makefile
-make
-vi Makefile
-make
-vi Makefile
-make
-vi Makefile
-make
-vi Makefile
-cd 
-ls
-cd ex2
-;s
-ls
-make
-cd /ex1
-cd
-ls
-cd ex1
-ls
-make
-cat Makefile
-vi Makefile
-make
-cd
-ls
-cd ex1
-ls
-cat Makefile
-make
-cd
-cd ex3
-ls
-cat Makefile
-vi Makefile
-w
-:wq
-ls
-make
-cd
-pwd
-ls
-cd ex3
-ls -l
-cd
-cd ..
-ls
-cd s12181568
-cd
-ls
-cd
-ex3
-cd ex3
-ls
-cd ex3
-ls
-make
-cat Makefil
-make all
-cd ../ex2
-make all
-cd
-cd ex3
-make clean
-make
-ls
-cd
-cp -rf ~ex3 ~/submission/ex3
-cp -rf ./ex3 ~/submission/ex3
-ls
-cd submission
-ls
-cd ex3
-ls
-make
-make clean
-make
-make clean
-ls
-cd
-exit
-ls
-id
-ls -l /home
-ls -l /etc/shadow
-ls -l /bin/shadow
-ls -l /bin/passwd
-umask
-chmod
-ls
-mkdir trash
-ls
-cd trash
-ls
-q
-exit
-ls
-cd trash
-ls
-vi test
-ls
-cd trash
-ls
-vi test
-vi main.c
-ls
-gcc main.c
-./a.out
-ㅣㄴ
-ls
-vi ex_chmod
-mv ex_chmod ex_chmod.c
-vi ex_chmod.c
-gcc ex_chmod.c -o ex_chmod
-./ex_chmod
-./ex_chmod main.c 0000
-
-./ex_chmod 777 file1
-cat > file1
-ls
-cat > file1
-./ex_chmod 777 file1
-ls
-ls -al
-ls
-vi ex_chmod.c
-ls
-vi ex_chmod2.c
-gcc ex_chmod2.c -o ex_chmod2
-./ex_chmod
-./ex_chmod 2
-./ex_chmod -h
-./ex_chmod -v
-./ex_chmod 733 file1 -v
-./ex_chmod 733 file1 -h
-./ex_chmod2 733 file1 -h
-./ex_chmod2 733 file1 
-d
-./ex_chmod2 733 file1 
-./ex_chmod2 733 file1
-./ex_chmod2
 ./ex_chmod2 -v -h
 ./ex_chmod2 -v
 ./ex_chmod2 
@@ -1459,4 +793,1208 @@ last | grep s121916
 last | grep s1219165
 ls
 pwd
+exit
+ls
+git
+ls
+git init
+git remote add origin https://github.com/hereokay/linux_on.git
+git remote -v
+git push
+git push --set-upstream origin master
+git add .
+git commit -m "first"
+git config --global user.email "hereokay88@gmail.com"
+git config --global user.name "ijinjung"
+git push
+git push --set-upstream origin master
+git push -u origin master
+git reote -v
+git remote -v
+git pull main
+git log
+git add .
+git commit -m "At"
+git push -u origin main
+git branch
+git push -u origin master
+ls
+pwd
+ls
+cd
+ls
+cd /home/share
+ls
+cd linux_programming/
+ls
+cd di
+cd midterm/
+ls
+./lp3_score 
+./lp4_score 
+./lp3_score 
+exit
+ls
+ldmkl
+l
+ls
+cd ex7
+ls
+vi ex_div0.c
+ls
+cd ex
+cd ex7
+ls
+vi ex_div0.h
+vi ex_div0.c
+ls
+rm *
+ls -al
+rm .ex_div0.c.swp 
+ls
+vi ex_div0.c
+gcc ex_div0.c 
+,.a
+./a.out 
+vi ex_sigint.c
+gcc ex_sigint.c 
+vi ex_sigint.c 
+gcc ex_sigint.c 
+./a.out 
+vi ex_sigint.c 
+./a.out 
+ls
+vi ex_sigint.c 
+l
+ll
+l
+ll
+l
+ll
+l
+ll
+l
+ll
+l
+ll
+l
+llll
+l
+ll
+l
+ll
+l
+lll
+l
+llll
+ll
+l
+vi ex_sigint.c 
+gc ex_sigint.c 
+gcc ex_sigint.c 
+vi ex_sigint.c 
+gcc ex_sigint.c 
+./a.out 
+gcc ex_sigint.c -o s
+./s 
+gcc ex_sigint.c -o s
+vi ex_sigint.c 
+gcc ex_sigint.c 
+./a.out 
+vi ex_sigint.c 
+gcc ex_sigint.c 
+./a.out 
+vi ex_sigint.c 
+gcc ex_sigint.c 
+./a.out 
+vi
+vi ex_sigint.c 
+l
+rm s*
+ls
+cp ex_sigint.c ex_sigjmp.c
+vi ex_sigjmp.c 
+gcc ex_sigjmp.c 
+./a.out 
+l
+vi ex_sigjmp.c 
+ls
+vi ex_sig
+vi ex_sigjmp.c 
+gcc ex_sigjmp.c 
+./a.out 
+vi ex_sigjmp.c 
+gcc ex_sigjmp.c 
+./a.out 
+vi ex_sigjmp.c 
+gcc ex_sigjmp.c 
+./a.out 
+vi ex_sigjmp.c 
+l
+vi ex_kill.c
+gcc ex_kill.c 
+ls
+gcc ex_sigjmp.c -o ex_sigjmp
+./ex_sigjmp &
+kill 383836
+./ex_sigjmp &
+ls
+./ex_sigjmp &
+./a.out 383928
+ps
+./ex_sigjmp &
+ps
+ls
+ps
+./ex_sigjmp &
+kill 385714
+vi ex_sigjmp
+vi ex_sigjmp.c
+./ex_sigjmp 
+./ex_sigjmp &
+kill 386625
+ls
+gcc ex_kill.c -o ex_kill
+ls
+./ex_sigjmp &
+./ex_kill 388757
+kkill 388757
+kill 388757
+l
+vi Makefile
+makeclean
+clean
+make
+make all
+all
+make
+make clean
+make
+ls
+vi ex_sigjmp
+vi ex_sigjmp.c
+ls
+vi ex_kill.c
+l
+vi ex_div0.c
+vi ex_sigint.c
+ls
+./ex_div0 
+vi ex_div0
+vi ex_div0.c
+l
+./ex_sigint 
+./ex_sigjmp 
+l
+vi ex_div0
+vi ex_div0.c
+vi Makefile
+make
+clean
+make
+make clean
+make
+./ex_div0 
+l
+cd //
+cd
+ls
+cp -rf ~/ex7 ~/submission/ex7
+ls
+cd submission/
+ls
+cd ex7
+ls
+make clean
+ls
+rm a.out 
+ls
+vi ex_sigint.c 
+vi sigj
+vi ex_sigjmp.c 
+exit
+;s
+ls
+l
+ls
+;s
+l
+ls
+l
+mkdir ex7
+ls
+cd ex7
+ls
+l
+ll
+l
+ll
+l
+ls
+mkdir ex8
+cd ex8
+ls
+clear
+ps -o pid,ppid,pgid,sid,command
+ps
+ps -f
+ps -o pid,ppid,pgid,sid,command
+l
+cd ..
+ls
+cd ex7
+ls
+cp ex_kill.c ../ex8/ex_kill.c
+cd ../ex8
+ls
+l
+vi ex_kill.c _
+ls
+ls -l
+ls -al
+vi ex_kill.c 
+gcc ex_kill.c 
+v iex
+vi ex_kill.c 
+gcc ex_kill.c 
+ps -o
+ps -o pid,ppid,pgid,sid,command
+vi ex_test.c
+ls
+vi ex_
+vi ex_kill.c 
+l
+gcc ex_test.c ex_test
+gcc ./ex_test.c ex_test
+gcc ex_test.c -o ex_test
+./ex_test 
+gcc ex_kill.c -o ex_kill
+ls
+rm a.out 
+ls
+./ex_test &
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1056493
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1056493 -g
+vi ex_kill.c
+gcc ex_kill.c -o ex_kill
+ps -o pid,ppid,pgid,sid,command
+./ex_test 
+./ex_test &
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1057839 -g
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1057839 
+ls
+./ex_test 
+./ex_test &
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 1059434
+./ex_kill 9 1059434
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1059434
+./ex_kill 9 1059434 -g
+ps -o pid,ppid,pgid,sid,command
+vi ex_test.c
+gcc ex_test.c -o ex_test
+vi ex_test.c
+gc ex_test.c -o ex_test
+gcc ex_test.c -o ex_test
+vi ex_test.c
+gc ex_test.c -o ex_test
+gcc ex_test.c -o ex_test
+./ex_test &
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1064631
+ps -o pid,ppid,pgid,sid,command
+vi ex_test.c
+gcc ex_test.c -o ex_test
+./ex_test &
+ps -o pid,ppid,pgid,sid,command
+kill 9 1064631
+./ex_kill 9 1064631
+./ex_kill 9 1064631 -g
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1067051
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1067048
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1067048 -g
+ps -o pid,ppid,pgid,sid,command
+vi ex_pipe1
+mv ex_pipe1 ex_pipe1.c
+vi ex_pipe1.c 
+./ex_test &
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1069626
+ps -o pid,ppid,pgid,sid,command
+./ex_kill 9 1069624 -g
+ps -o pid,ppid,pgid,sid,command
+vi ex_pipe1.c 
+gcc ex_pipe1.c -o ex_pipe1
+./ex_pipe1 
+l
+vi ex_pipe2.c
+gcc ex_pipe2.c -o ex_pipe2
+./ex_pipe2 
+yyyyyyyyyy
+l
+vi ex_pipe2,c
+vi ex_pipe2.c
+vi ex_pipe3.c
+cp ex_pipe2.c ex_pipe3.c
+l
+vi ex_pipe3.c
+gcc ex_pipe3.c -o ex_pipe3
+vi ex_pipe3.c
+gcc ex_pipe3.c -o ex_pipe3
+vi ex_pipe3.c
+gcc ex_pipe3.c -o ex_pipe3
+./ex_pipe3
+vi ex_pipe3.c
+./ex_pipe3
+vi Makefile
+make
+make clearn
+make clean
+make
+ls
+clean
+make claen
+make clean
+ls
+make
+ls
+./ex_pipe1
+./ex_pipe2
+./ex_pipe3
+./ex_test &
+ps -o pid,pgid
+ps -o pid,pgid,command
+./ex_kill 1083214 -g
+./ex_kill 9 1083214 -g
+ps -o pid,pgid,command
+./ex_test &
+ps -o pid,pgid,command
+./ex_kill 9 1083722
+ps -o pid,pgid,command
+./ex_kill 9 1083719 -g
+ps -o pid,pgid,command
+ls
+make clean
+ls
+cp -rf ~/ex8 ~/submission/ex8
+ls
+cd
+ls
+cd submission/
+ls
+cd ex8
+ls
+exit
+ls
+mkdir test
+ls
+cd test
+vi main.c
+vi smallsh.c
+vi smallsh.h
+gcc main.c smallsh.c smallsh.h
+./a.out 
+cd test
+ls
+vi smallsh.c
+gcc main.c smallsh.c smallsh.h
+./a.out 
+ls
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+ls
+vi smallsh.c
+cd 
+ls
+cd ex8
+ls
+vi ex_kill.c 
+vi ex_test.c 
+ls
+cd
+ls
+cd test
+ls
+vi test.c
+l
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+ls
+vi smallsh.c
+./a.out 
+vi smallsh.c
+gcc smallsh.c main.c smallsh.h
+vi smallsh.c
+gcc smallsh.c main.c smallsh.h
+./a.out 
+ls
+vi smallsh.c
+ls
+cd ex8
+cd ..
+ls
+cd test
+s
+l
+./a.out 
+vi smallsh.c
+gcc main.c smallsh.c smallsh.h
+./a.out 
+l
+vi smallsh.c
+vi smallsh..c
+vi smallsh.c
+gcc smallsh.c main.c smallsh.h
+./a.out 
+vi smallsh.
+vi smallsh.c
+gcc smallsh.c main.c smallsh.h
+./a
+./a.out 
+ls
+cat file1 > file3
+ls
+cat file3
+./a
+rm a
+./a.out 
+vi smallsh.c
+cat file2>file5
+cat file5
+/.a
+./a.out 
+vi smallsh.c
+gcc smallsh.c main.c smallsh.h
+./a.out 
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+vi smallsh.c
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+vi smallsh.c
+ls
+gcc smallsh.c smallsh.h main.c 
+./a.out 
+ls
+rm file*
+ls
+rm s 
+rm test.c c
+ls
+rm smallsh.h.gch 
+ls
+./a.out 
+ls
+vi smallsh.c
+ls
+vi Makefile
+make
+clean
+make clean
+make
+ls
+rm file*
+ls
+make clean
+ls
+make
+ls
+cd ..
+cd ex5
+ls
+make 
+make clean
+ls
+make
+ls
+cd ../test
+ls
+make
+make clean
+ls
+make
+vi MA
+vi Makefile 
+make
+make clean
+make
+ls
+vi Makefile 
+make
+make clean
+ls
+make
+ls
+./project_exe 
+ls
+vi Makefile 
+make
+make clean
+ls
+vi Makefile 
+make
+make clean
+make
+ls
+make clean
+ls
+rm a.out 
+ls
+vi Makefile 
+make
+lean
+ls
+make clean
+make
+./pro
+ls
+./project_exe
+ls
+make clean
+ls
+vi Makefile 
+make
+ls
+vi Makefile 
+make
+vi Makefile 
+make
+vi Mae
+vi Makefile 
+make
+vi Makefile 
+make
+clean
+ls
+vi  Makefile 
+make
+ls
+./pj
+vi Makefile 
+make
+make clena
+make clean
+ls
+make
+cd ../ex7
+make
+make clean
+make
+vi Makefile 
+cd ../test
+ls
+vi Makefile 
+make
+make clean
+make
+vi Makefile 
+make
+cd ../ex6
+ls
+make clean
+ls
+make
+vi Makefile 
+cd ../test
+ls
+vi smallsh.c
+s
+l
+make clean
+ls
+cp ../test ~/submission/project1
+cp ../test ~/submission/project1 -rf
+ls
+cd ..
+ls
+cd submission/
+ls
+cd project1/
+ls
+make
+ls
+vi Makefile 
+make
+ls
+make clean
+make
+ls
+vi Makefile 
+make clean
+ls
+rm pj
+ls
+make
+ls
+./smallsh 
+ls
+make clean
+ls
+vi Makefile 
+s
+l
+ls
+cd submission/
+ls
+cd project1/
+ls
+vi smallsh.c
+git
+vi smallsh.c
+ls
+make
+ls
+./smallsh 
+ls
+cd submission/
+ls
+cd project1/
+l
+make clean
+ls
+rm file file2
+ls
+make
+ls
+./smallsh 
+ls
+cd submission/
+ls
+cd project1/
+ls
+./smallsh 
+ls
+pwd
+mkdir ex9
+ls
+cd ex9
+ls
+pwd
+ls
+l
+vi ex_fifo.c
+vi ex_receiver.c
+ls
+vi ex_sender.c
+gcc ex_sender.c -o ex_sender
+l
+gcc ex_receiver.c -o ex_receiver
+vi ex_receiver.c 
+gcc ex_receiver.c -o ex_receiver
+l
+./ex_receiver 
+./ex_receiver FIFO1
+l
+gcc ex_receiver.c -o ex_receiver
+l
+./ex_receiver FIFO1
+l
+ll
+l
+ll
+cp ex_sender.c ex_sender2.c
+l
+cp /home/share/linux_programming/prof_receiver ./
+l
+vi ex_sender2.c 
+gcc ex_sender2.c -o ex_sender2
+vi ex_sender2.c 
+gcc ex_sender2.c -o ex_sender2
+ls
+./prof_receiver 
+cp /home/share/linux_programming/prof_receiver ./
+./prof_receiver 
+ls
+cd ex9
+ls
+./ex_sender 
+./ex_sender FIFO1 ls
+./ex_receiver FIFO1 msg
+vi ex_receiver,c
+vi ex_receiver.c
+./ex_sender FIFO1 ls
+make
+mask
+ls -l
+./ex_sender FIFO1 ls
+./ex_sender FIFO1 lfsfsf
+vi ex_sender
+vi ex_sender.c
+./ex_sender FIFO1 lfsfsf
+gdb ./ex_sender
+l
+./ex_sender.c
+vi ex_sender.c
+gcc ex_sender.c -o ex_sender
+./ex_sender FIFO1 fwemkl
+l
+./ex_sender2 1870256
+vi ex_sender2.c
+./ex_sender2 1870256
+vi ex_sender2.c
+./ex_sender2 1875765
+vi ex_sender2.c
+cp ex_sender2 ~/../share/linux_programming/prof_sender 
+ll ~/../share/linux_programming/prof_sender 
+cp ex_sender2 ~/../share/linux_programming/prof_sender 
+cp ~/../share/linux_programming/prof_sender prof_sender
+./prof_sender 
+./prof_sender 1875765
+./ex_sender2 1875765
+vi ex_sender2.c
+gcc ex_sender2.c -o ex_sender2
+./ex_sender2
+./ex_sender2 pid_receiver = atoi(argv[1]);
+./ex_sender2 1875765
+l
+vi ex_sender2.c 
+./ex_sender2 1881352
+vi ex_sender2
+vi ex_sender2.c
+gcc ex_sender2.c -o ex_sender2
+./ex_sender2 1881352
+vi ex_sender2.c
+gcc ex_sender2.c -o ex_sender2
+./ex_sender2 1881352
+./ex_sender2 1885838
+vi ex_sender2
+vi ex_sender2.c
+gcc ex_sender2.c -o ex_sender2
+ls
+rm FIFO*
+ls
+l
+cp ex_receiver.c ex_receiver2.c
+l
+vi ex_receiver2.c 
+gcc ex_receiver2.c -o ex_receiver2
+vi ex_receiver2.c 
+gcc ex_receiver2.c -o ex_receiver2
+l
+./ex_sender 1919047
+./ex_sender2 1919047
+./ex_sender2 1919696
+vi ex_receiver2.c
+l
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2 
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+vi j.c
+gcc ex_ -o sen
+./sen 
+l
+mv j.c ex_receiver2.c
+l
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+./ex_receiver2
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+vi ex_receiver2.c
+l
+cd ex9
+ls
+./prof_receiver 
+l
+./ex_receiver2
+l
+./ex_sender2 1922949
+./prof_sender 1922949
+./prof_sender 1925419
+./ex_sender2 1926183
+./ex_sender2 1928149
+./prof_sender 1928149
+./prof_sender 1928693
+./prof_sender 1929017
+./ex_sender2
+./ex_sender2 1929179
+1929850z
+./ex_sender2 1929850
+./prof_sender 1929850
+./prof_sender 1930068
+./prof_sender 1930174
+./prof_sender 1930348
+./prof_sender 1930368
+ls
+cd ex9
+ls
+./ex_sender2
+./ex_sender2 2002529
+./ex_sender2 2003775
+l
+rm sen
+ls
+l
+cd ../ex8
+l
+vi Makefile 
+cd ../ex9
+l
+vi Makefile
+vi Makefile 
+cd ../ex7
+l
+cat Makefile 
+cd ../ex9
+l
+vi Makefile 
+make
+vi Makefile 
+make
+make clean
+make
+l
+make
+make clean
+make
+l
+./ex_sender al
+./ex_sender al fwefew
+vi ex_sender.c
+ls
+make clean
+make
+ls
+./ex_sender ls emfkw
+./ex_sender ls emfkwwefwefew
+./ex_sender ls emfkwwefwefewrgerg
+./ex_sender ls afkwanwkfnawklfnaklwf
+l
+rm al ls
+l
+make clean
+l
+vi Makefile 
+l
+cd ex9
+l
+./ex_sender2
+./ex_sender2 2013660
+ls
+l
+cd ex9
+l
+./ex_receiver2
+vi ex_receiver2.c
+gcc ex_receiver2.c -o ex_receiver2
+./ex_receiver2
+l
+rm FIFO*
+ls
+l
+./ex_receiver
+./ex_receiver al
+l
+./ex_receiver al
+l
+./ex_receiver ls
+l
+cd ..
+l
+cp -rf ex9 test9
+l
+cd test9
+l
+cd ..
+ls
+cd ex9
+l
+rm prof_*
+l
+make 
+make clean
+l
+make
+l
+./ex_receiver2
+l
+make clean
+l
+cp -rf ~/ex9 ~/submission/ex9
+l
+ls
+l
+ls
+l
+ls
+l
+cd ex9
+l
+make
+l
+./ex_receiver
+./ex_receiver fifo
+vi ex_receiver.c
+vi ex_sender.c
+vi ex_receiver.c
+vi ex_sender2.c
+vi ex_receiver2.c
+ls
+mkdir ex10
+ls
+cd ex10
+
+l
+vi msg_header.h
+l
+vi msg.sender.c
+vi msg_receiver.c
+mv msg.sender.c msg_sender.c
+l
+gcc msg_sender.c -o msg_sender
+gcc msg_receiver.c -o msg_receiver
+vi msg_receiver.c 
+gcc msg_receiver.c -o msg_receiver
+ipcs -q
+./msg_sender 
+gcc msg_sender.c msg_header.h -o msg_sender
+gcc msg_receiver.c msg_header.h -o msg_receiver
+pics -q
+ipcs -q
+./msg_sender 
+./msg_receiver 
+./msg_sender 
+vi msg_sender.c
+./msg_sender 
+vi msg_sender.c
+gcc msg_sender.c msg_header.h -o msg_sender
+./msg_sender 
+vi msg_sender.c
+gcc -o msg_sender msg_header.h msg_sender.c
+./msg_sender 
+exit
+cd ex10
+l
+./msg_sender 
+ipcs -q
+vi msg_header.h
+l
+./msg_sender 
+./msg_receiver 
+./msg_sender 
+./msg_receiver 
+vi err.c
+gcc err.c -o err
+vi err.c
+gcc err.c -o err
+vi err.c
+gcc err.c -o err
+./err
+vi msg_sender.c
+./msg_receiver 
+./msg_sender 
+ipcrm -q
+ipcs -q
+ipcrm -q 32781
+ipcs -q
+ls
+./msg_sender 
+./msg_receiver 
+l
+rm err*
+l
+ipcs -q
+ipcrm -q 32818
+vi msg_private.c
+gcc msg_private.c -o msg_private
+vi msg_private.c 
+gcc msg_private.c -o msg_private
+./msg_private 
+ipcs -q
+./msg_private 
+ipcs -q
+L
+k
+l
+ipcs -q | grep s12191654
+ipcrm -q 65586
+ipcrm -q 65597
+ipcs -q
+ipcs -q | grep s12191654
+l
+vi msg_receiver.c
+ipcs -q | grep s12191654
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver 
+vi msg_receiver.c
+./msg_receiver 
+gcc msg_receiver.c -o msg_receiver
+./msg_
+./msg_receiver 
+l
+ipcs -q | grep s12191654
+ipcrm -q 131091
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_receiver.c
+ipcs -q | grep s12191654
+gcc msg_receiver.c -o msg_receiver
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver
+l
+ipcs -q | grep s12191654
+./msg_
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver
+ipcs -q | grep s12191654
+vi msg_receiver.c
+vi msg_header.h 
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver 
+ls
+vi msg_receiver.c 
+gcc msg_receiver.c -o msg_receiver
+vi msg_receiver.c
+l
+./msg_receiver 
+ipcs -q
+ipcs -q | grep s12191654
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_receiver.c
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver 
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver 
+vi msg_sender.c
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver 
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver 
+gcc msg_receiver.c -o msg_receiver
+ipcs -q | grep s12191654
+l
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_receiver.c
+gcc msg_receiver.c -o msg_receiver
+./msg_receiver 
+./msg_sender 
+ipcs -q | grep s12191654
+./msg_receiver 
+ipcs -q | grep s12191654
+./msg_sender 
+./msg_receiver 
+ipcs -q | grep s12191654
+vi msg_private
+vi msg_private.c
+cat msg_receiver.c
+vi msg_private.c
+gcc -o msg_private msg_private.c
+./msg_private 
+ipcs -q | grep s12191654
+l
+cat msg_private
+:q
+cat msg_private.c
+l
+vi msg_private.c
+l
+cat msg_receiver
+:q
+:q.c
+cat msg_receiver.c
+vi Makefile
+make
+vi Makefile 
+make
+make clean
+make
+l
+./msg_sender 
+ipcs
+ipcs -q
+l
+./msg_receiver 
+l
+./msg_receiver 
+ipcs -q
+./msg_receiver 
+vi msg_receiver.c
+./msg_receiver 
+./msg_sender 
+./msg_receiver 
+ipcs -q
+./msg_private 
+ipcs -q
+ipcs -q | grep s12191654
+l
+make clean
+l
+cp -rf ~/ex10 ~/submission/ex10
+l
 exit
