@@ -15,11 +15,13 @@
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1669259830,,"q"
+|2,0,1669862395,,"q"
+:Q
+|2,0,1669862394,,"Q"
 :wq
-|2,0,1669259722,,"wq"
+|2,0,1669862274,,"wq"
 :q!
-|2,0,1669259206,,"q!"
+|2,0,1669861196,,"q!"
 :Wq
 |2,0,1668669782,,"Wq"
 :set nu
@@ -28,8 +30,6 @@
 |2,0,1667445177,,"q:q"
 :!
 |2,0,1667443728,,"!"
-:Q
-|2,0,1667442947,,"Q"
 :s
 |2,0,1665044999,,"s"
 ::wq
@@ -110,230 +110,313 @@
 |3,0,36,0,1,0,1668654143," "
 
 # File marks:
-'0  40  0  ~/ex10/msg_receiver.c
-|4,48,40,0,1669259830,"~/ex10/msg_receiver.c"
-'1  7  0  ~/ex10/Makefile
-|4,49,7,0,1669259722,"~/ex10/Makefile"
-'2  10  5  ~/ex10/Makefile
-|4,50,10,5,1669259699,"~/ex10/Makefile"
-'3  10  5  ~/ex10/Makefile
-|4,51,10,5,1669259699,"~/ex10/Makefile"
-'4  35  12  ~/ex10/msg_private.c
-|4,52,35,12,1669259577,"~/ex10/msg_private.c"
-'5  35  12  ~/ex10/msg_private.c
-|4,53,35,12,1669259377,"~/ex10/msg_private.c"
-'6  35  2  ~/ex10/msg_private.c
-|4,54,35,2,1669259355,"~/ex10/msg_private.c"
-'7  35  2  ~/ex10/msg_private.c
-|4,55,35,2,1669259355,"~/ex10/msg_private.c"
-'8  1  0  ~/ex10/msg_private
-|4,56,1,0,1669259297,"~/ex10/msg_private"
-'9  14  1  ~/ex10/msg_receiver.c
-|4,57,14,1,1669259213,"~/ex10/msg_receiver.c"
+'0  23  0  ~/ex11/sem_main.c
+|4,48,23,0,1669862395,"~/ex11/sem_main.c"
+'1  23  0  ~/ex11/sem_main.c
+|4,49,23,0,1669862274,"~/ex11/sem_main.c"
+'2  50  0  ~/ex11/sem_ctl.c
+|4,50,50,0,1669861869,"~/ex11/sem_ctl.c"
+'3  24  65  ~/ex11/sem_ctl.c
+|4,51,24,65,1669861548,"~/ex11/sem_ctl.c"
+'4  24  65  ~/ex11/sem_ctl.c
+|4,52,24,65,1669861548,"~/ex11/sem_ctl.c"
+'5  15  17  ~/ex11/sem_header.h
+|4,53,15,17,1669861246,"~/ex11/sem_header.h"
+'6  1  13  ~/ex11/sem_header.h
+|4,54,1,13,1669861196,"~/ex11/sem_header.h"
+'7  1  13  ~/ex11/sem_header.h
+|4,55,1,13,1669861196,"~/ex11/sem_header.h"
+'8  40  0  ~/ex10/msg_receiver.c
+|4,56,40,0,1669259830,"~/ex10/msg_receiver.c"
+'9  7  0  ~/ex10/Makefile
+|4,57,7,0,1669259722,"~/ex10/Makefile"
 
 # Jumplist (newest first):
+-'  23  0  ~/ex11/sem_main.c
+|4,39,23,0,1669862395,"~/ex11/sem_main.c"
+-'  23  0  ~/ex11/sem_main.c
+|4,39,23,0,1669862274,"~/ex11/sem_main.c"
+-'  1  0  ~/ex11/sem_main.c
+|4,39,1,0,1669861874,"~/ex11/sem_main.c"
+-'  1  0  ~/ex11/sem_main.c
+|4,39,1,0,1669861874,"~/ex11/sem_main.c"
+-'  50  0  ~/ex11/sem_ctl.c
+|4,39,50,0,1669861869,"~/ex11/sem_ctl.c"
+-'  50  0  ~/ex11/sem_ctl.c
+|4,39,50,0,1669861869,"~/ex11/sem_ctl.c"
+-'  50  0  ~/ex11/sem_ctl.c
+|4,39,50,0,1669861869,"~/ex11/sem_ctl.c"
+-'  50  0  ~/ex11/sem_ctl.c
+|4,39,50,0,1669861869,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861552,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861552,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861552,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861552,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861548,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861548,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861548,"~/ex11/sem_ctl.c"
+-'  24  65  ~/ex11/sem_ctl.c
+|4,39,24,65,1669861548,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  1  0  ~/ex11/sem_ctl.c
+|4,39,1,0,1669861263,"~/ex11/sem_ctl.c"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  15  17  ~/ex11/sem_header.h
+|4,39,15,17,1669861246,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  0  ~/ex11/sem_header.h
+|4,39,1,0,1669861197,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
+-'  1  13  ~/ex11/sem_header.h
+|4,39,1,13,1669861196,"~/ex11/sem_header.h"
 -'  40  0  ~/ex10/msg_receiver.c
 |4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
--'  14  1  ~/ex10/msg_receiver.c
-|4,39,14,1,1669259822,"~/ex10/msg_receiver.c"
--'  7  0  ~/ex10/Makefile
-|4,39,7,0,1669259722,"~/ex10/Makefile"
--'  7  0  ~/ex10/Makefile
-|4,39,7,0,1669259722,"~/ex10/Makefile"
--'  10  5  ~/ex10/Makefile
-|4,39,10,5,1669259709,"~/ex10/Makefile"
--'  10  5  ~/ex10/Makefile
-|4,39,10,5,1669259709,"~/ex10/Makefile"
--'  10  5  ~/ex10/Makefile
-|4,39,10,5,1669259699,"~/ex10/Makefile"
--'  10  5  ~/ex10/Makefile
-|4,39,10,5,1669259699,"~/ex10/Makefile"
--'  1  0  ~/ex10/Makefile
-|4,39,1,0,1669259656,"~/ex10/Makefile"
--'  1  0  ~/ex10/Makefile
-|4,39,1,0,1669259656,"~/ex10/Makefile"
--'  1  0  ~/ex10/Makefile
-|4,39,1,0,1669259656,"~/ex10/Makefile"
--'  1  0  ~/ex10/Makefile
-|4,39,1,0,1669259656,"~/ex10/Makefile"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259577,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  12  ~/ex10/msg_private.c
-|4,39,35,12,1669259377,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  35  2  ~/ex10/msg_private.c
-|4,39,35,2,1669259355,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  30  29  ~/ex10/msg_private.c
-|4,39,30,29,1669259298,"~/ex10/msg_private.c"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
--'  1  0  ~/ex10/msg_private
-|4,39,1,0,1669259297,"~/ex10/msg_private"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
+-'  40  0  ~/ex10/msg_receiver.c
+|4,39,40,0,1669259830,"~/ex10/msg_receiver.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/ex11/sem_main.c
+	*	1669862394	0
+	"	23	0
+	^	23	1
+	.	24	0
+	+	1	23
+	+	23	0
+	+	5	34
+	+	6	22
+	+	18	0
+	+	7	18
+	+	17	0
+	+	7	3
+	+	9	12
+	+	10	36
+	+	12	38
+	+	13	12
+	+	15	36
+	+	16	11
+	+	19	22
+	+	21	0
+	+	20	12
+	+	22	17
+	+	24	0
+
+> ~/ex11/sem_ctl.c
+	*	1669861868	0
+	"	50	0
+	^	50	1
+	.	48	9
+	+	3	26
+	+	21	0
+	+	5	58
+	+	6	17
+	+	12	0
+	+	7	47
+	+	11	0
+	+	9	20
+	+	10	10
+	+	18	0
+	+	14	42
+	+	15	20
+	+	17	0
+	+	16	26
+	+	21	1
+	+	23	26
+	+	25	0
+	+	24	65
+	+	27	18
+	+	37	0
+	+	33	30
+	+	36	0
+	+	34	22
+	+	35	9
+	+	39	18
+	+	50	0
+	+	46	30
+	+	49	0
+	+	47	22
+	+	48	9
+
+> ~/ex11/sem_header.h
+	*	1669861245	0
+	"	15	17
+	^	15	18
+	.	16	0
+	+	11	94
+	+	1	178
+	+	11	94
+	+	1	19
+	+	2	23
+	+	3	21
+	+	4	21
+	+	5	20
+	+	6	20
+	+	7	19
+	+	8	22
+	+	11	3
+	+	12	27
+	+	13	27
+	+	14	19
+	+	16	0
 
 > ~/ex10/msg_receiver.c
 	*	1669259830	0
@@ -2057,29 +2140,3 @@
 	+	18	16
 	+	20	0
 	+	11	57
-
-> ~/ex1/makefile
-	*	1662607869	0
-	"	14	0
-	^	14	0
-	.	13	0
-	+	13	0
-
-> ~/ex1/func_two.c
-	*	1662606637	0
-	"	5	0
-	^	5	1
-	.	5	0
-	+	1	19
-	+	4	34
-	+	4	16
-	+	5	0
-
-> ~/ex1/main.c
-	*	1662606586	0
-	"	7	0
-	^	7	1
-	.	7	0
-	+	1	19
-	+	4	12
-	+	7	0

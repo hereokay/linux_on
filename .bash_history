@@ -1,35 +1,3 @@
-./ex_chmod2 -v -h
-./ex_chmod2 -v
-./ex_chmod2 
-./ex_chmod2 -h
-./ex_chmod2 
-./ex_chmod2 -h
-./ex_chmod2 777 file1
-./ex_chmod2 777 file1 -v
-./ex_chmod2
-./ex_chmod2 -o
-ls
-mkdir e4
-ls
-rm e4
-ls
-rm e4
-rmdir e4
-ls
-mkdir ex4
-ls
-cd ex4
-ls
-pwd
-ls
-ls ex1
-cd ..
-ls
-cd
-ls ex1
-ls /
-ls /etc
-ls
 ls ex1 ex2 ex3 ex33
 ls
 vi ex_ls.c
@@ -1998,3 +1966,35 @@ l
 cp -rf ~/ex10 ~/submission/ex10
 l
 exit
+l
+mkdir ex11
+cd ex11
+l
+gitl
+git
+cd ..
+l
+ll
+git add .
+git commit -m "f"
+git push
+l
+ls
+l
+cd ex11
+l
+vi sem_header.h
+vi sem_ctl.c
+vi sem_main.c
+;
+l
+gcc sem_header.h sem_main.c -o sem
+gcc sem_ctl.c sem_main.c -o sem
+./sem
+vi sem_main.c
+./sem
+eixt
+exit
+l
+git
+git push
